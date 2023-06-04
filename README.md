@@ -10,12 +10,11 @@ In the file section you will find some examples of code.<br />
 I wrote a library for determining the zero position, which you can download as a (.zip) file. Determining the zero position should always be done before starting a programme. Attention: the programme does not ensure that while running the programme in the (void loop) the motors are limited keep in mind that you do not turn too far to the left or right.<br />
 <br />
 How to use:<br />
- <td>
- <p>sketch - include library - add .ZIP library - select the zip file<br />
+
+sketch - include library - add .ZIP library - select the zip file<br />
 #include<homing.h><br />
 homing myHoming;<br />
 void setup() {<br />
-myHoming.setup(); <p><br />
-   </td>
+myHoming.setup();<br />
 }<br />
 # pinout
