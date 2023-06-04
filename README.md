@@ -9,7 +9,9 @@ In the file section you will find some examples of code.<br />
 # library
 I wrote a library for determining the zero position, which you can download as a (.zip) file. Determining the zero position should always be done before starting a programme. Attention: the programme does not ensure that while running the programme in the (void loop) the motors are limited keep in mind that you do not turn too far to the left or right.<br />
 <br />
-In the examples is their a file "How_To_Use_Library" with a example code for how to use the library
+In the examples is their a file "How_To_Use_Library" with a example code for how to use the library.<br />   
+<br />   
+The library will also define the pins for you so you did not have to do that.
 How to use:<br />
 
   sketch - include library - add .ZIP library - select the zip file<br />
