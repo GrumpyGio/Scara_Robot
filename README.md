@@ -11,10 +11,10 @@ I wrote a library for determining the zero position, which you can download as a
 <br />
 How to use:<br />
 
-(&nbsp;)(&nbsp;)sketch - include library - add .ZIP library - select the zip file<br />
-#include<homing.h><br />
-homing myHoming;<br />
-void setup() {<br />
-myHoming.setup();<br />
+  sketch - include library - add .ZIP library - select the zip file<br />
+  #include<homing.h><br />
+  homing myHoming;<br />
+  void setup() {<br />
+  myHoming.setup();<br />
 }<br />
 # pinout
