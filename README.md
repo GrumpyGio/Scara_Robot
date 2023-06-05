@@ -24,3 +24,5 @@ How to use:<br />
   myHoming.setup();<br />
 }<br />
 # pinout
+## BlockDiagram
+![blokdiagram](https://github.com/GrumpyGio/Scara_Robot/assets/93333742/6ae587ab-08b7-4898-83ea-5903737b38cf)
