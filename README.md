@@ -28,4 +28,19 @@ How to use:<br />
 }<br />
 # pinout
 ## BlockDiagram
-![blokdiagram](https://github.com/GrumpyGio/Scara_Robot/assets/93333742/6ae587ab-08b7-4898-83ea-5903737b38cf)
+![blokdiagram](https://github.com/GrumpyGio/Scara_Robot/assets/93333742/6ae587ab-08b7-4898-83ea-5903737b38cf)<br />
+<br />
+<br />
+Epin: 8 must always be low
+stepperx: step,dir<br />
+stepper1: 2,5<br />
+stepper2: 3,6<br />
+stepper3: 4,7<br />
+stepper4: 12,13<br />
+<br />
+limit1: 14<br />
+limit2: 15<br />
+limit3: 16<br />
+limit4: 17<br />
+
+
