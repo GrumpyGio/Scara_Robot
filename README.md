@@ -16,7 +16,7 @@ In the examples is their a file "How_To_Use_Library" with a example code for how
 <br />   
 The library will also define the pins for you so you did not have to do that.<br />   
 <br />   
-Attention: To let the library work make sure you have installed the "AccelSteppr" library.<br />   
+Attention: To let the library work make sure you have installed the "AccelStepper" library.<br />   
 <br />   
 How to use:<br />
 
