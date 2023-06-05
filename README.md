@@ -14,7 +14,10 @@ I wrote a library for determining the zero position, which you can download as a
 <br />
 In the examples is their a file "How_To_Use_Library" with a example code for how to use the library.<br />   
 <br />   
-The library will also define the pins for you so you did not have to do that.
+The library will also define the pins for you so you did not have to do that.<br />   
+<br />   
+Attention: To let the library work make sure you have installed the "AccelSteppr" library.<br />   
+<br />   
 How to use:<br />
 
   sketch - include library - add .ZIP library - select the zip file<br />
